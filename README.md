@@ -12,3 +12,4 @@ Tech Stack: clerk, stripe, prisma, planetscaler, nextjs
 
 # Tailwindcss upgrade & migrate cmd
 `npx @tailwindcss/upgrade@next`# LittleMonsters..
+# LittleMonsters..
